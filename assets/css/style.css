@@ -4719,7 +4719,7 @@ del {
 }
 @media (max-width: 767px) {
   .header-sticky.sticky-bar.sticky {
-    padding: 8px 0px;
+    padding: 2em 0;
   }
 }
 .slicknav_menu .slicknav_icon-bar {
