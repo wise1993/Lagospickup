@@ -21,6 +21,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-blend-mode: overlay;
+    background-color: #000000c7;
 }
 
 .social-icon img {
