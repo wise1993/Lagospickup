@@ -1927,8 +1927,8 @@ hr {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .footer-padding {
-    padding-top: 170px;
-    padding-bottom: 20px;
+    padding-top: 100px;
+    padding-bottom: 0px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5795,7 +5795,7 @@ form.search-box .search-form a {
   padding: 0;
 }
 .footer-area .footer-tittle h4 {
-  color: #ffffff;
+  color: #000;
   font-size: 20px;
   margin-bottom: 29px;
   font-weight: 400;
@@ -5815,7 +5815,7 @@ form.search-box .search-form a {
 }
 .footer-area .footer-tittle-bottom span {
   display: inline-block;
-  color: #fff;
+  color: #000;
   font-weight: 600;
   font-size: 24px;
   margin-right: 11px;
@@ -5827,7 +5827,7 @@ form.search-box .search-form a {
 }
 .footer-area .footer-tittle-bottom p {
   display: inline-block;
-  color: #fff;
+  color: #000;
 }
 .footer-area .footer-form {
   margin-top: 40px;
@@ -5839,7 +5839,7 @@ form.search-box .search-form a {
   width: 100%;
   height: 43px;
   padding: 10px 20px;
-  border: 1px solid #fff;
+  border: 1px solid #212020;
   border-radius: 5px;
 }
 .footer-area .footer-form form .form-icon button {
@@ -5858,10 +5858,10 @@ form.search-box .search-form a {
   color: #fb246a;
 }
 .footer-bg {
-  background: #010b1d;
+  background: #ffffff;
 }
 .footer-bottom-area .footer-border {
-  border-top: 1px solid #2d3544;
+  border-top: 1px solid #b3b3b3;
   padding: 33px 0px 20px;
 }
 .footer-bottom-area .footer-copy-right p {
@@ -5913,7 +5913,7 @@ form.search-box .search-form a {
   color: #fb246a;
 }
 .footer-wejed {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 40px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
