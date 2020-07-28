@@ -248,3 +248,9 @@ strong {
 .footer-logo img {
     width: 170px;
 }
+
+@media screen and (min-width:320px) and (max-width: 720px) {
+    .learn {
+        padding-bottom: 2em;
+    }
+}
