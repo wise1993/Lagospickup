@@ -225,10 +225,11 @@ li {
   list-style: none;
 }
 hr {
-  border-bottom: 1px solid #eceff8;
-  border-top: 0 none;
-  margin: 30px 0;
-  padding: 0;
+  border-bottom: 2px solid #283048;
+    border-top: 0 none;
+    padding: 0;
+    width: 45%;
+    margin: auto;
 }
 .theme-overlay {
   position: relative;
