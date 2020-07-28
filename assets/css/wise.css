@@ -143,3 +143,50 @@ strong {
     font-weight: 900;
     font-family: 'FuturaBold';
 }
+
+.ParallaxaAds {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.driveText h1 {
+    font-family: 'linotype-didot';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 39px;
+    letter-spacing: .02em;
+    line-height: 1.2em;
+    text-transform: none;
+    color: #fff;
+}
+
+.driveParagraph p {
+    font-family: 'futura-pt';
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .02em;
+    line-height: 1.4em;
+    text-transform: none;
+    color: #fff;
+    text-align: start;
+}
+
+.driveParagraph b {
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .02em;
+    line-height: 1.4em;
+    text-transform: none;
+    color: #fff;
+    font-weight: 900;
+    font-family: 'FuturaBold';
+}
+
+.cont {
+    padding-bottom: .05em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(255,255,255,.3);
+}

@@ -2015,7 +2015,7 @@ hr {
 .section-overly::before {
   position: absolute;
   content: '';
-  background-color: rgba(31, 43, 123, 0.8);
+  background-color: rgb(11 11 12 / 60%);
   width: 100%;
   height: 100%;
   left: 0;
