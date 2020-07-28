@@ -73,3 +73,73 @@
     padding: 2.2em 2.5em;
     border: 2px solid #fff;
 }
+
+.grid {
+    padding: 4em 0;
+}
+.grid p {
+    margin-bottom: 0;
+    font-family: 'futura-pt';
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .02em;
+    line-height: 1.4em;
+    text-transform: none;
+    color: #737070;
+}
+
+.grid-block {
+    height: 350px;
+}
+
+.grid-block:hover {
+    background-color: #151414;
+}
+
+.grid-1, .grid-2, .grid-3, .grid-4 {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+.grid-1 {
+    background-image: url('./../img/banner/Photo_1__Airport_Transfer.png');
+}
+.grid-2 {
+    background-image: url('./../img/banner/Photo_2__Luxury_Tours.png');
+}
+.grid-3 {
+    background-image: url('./../img/banner/Photo_3__Business_Travel.png');
+}
+.grid-4 {
+    background-image: url('./../img/banner/Photo_4__Event_Transportation.png');
+}
+
+.learn {
+    padding-top: 1.2em;
+}
+
+.learn-more {
+    padding: 1.5em 2.8em;
+}
+
+.clear-top {
+    padding-top: 2em;
+}
+
+@font-face {
+    font-family: "FuturaBold";
+    src: url("./../fonts/FuturaPTBold.otf");
+}
+strong {
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .02em;
+    line-height: 1.4em;
+    text-transform: none;
+    color: #000;
+    font-weight: 900;
+    font-family: 'FuturaBold';
+}

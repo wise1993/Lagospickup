@@ -1740,8 +1740,8 @@ hr {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .section-pad-t30 {
-    padding-top: 195px;
-    padding-bottom: 195px;
+    padding-top: 0em;
+    padding-bottom: 4em;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
